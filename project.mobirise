@@ -50,7 +50,7 @@
         "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i"
       }
     ],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logosample-bytailorbrands-122x129-122x129.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
